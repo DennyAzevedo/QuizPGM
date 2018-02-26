@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QuizPGM.Properties
+namespace QuizPGM.Desk.Properties
 {
 
 
